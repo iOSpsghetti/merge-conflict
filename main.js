@@ -1,2 +1,2 @@
 var num = 50;
-var truth = "Hello World I'm codeA";
+var truth = "Yo World coderB Hosed it";
